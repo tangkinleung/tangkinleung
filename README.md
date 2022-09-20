@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tangkinleung&label=Profile%20views&color=blueviolet&style=flat" alt="tangkinleung" /> </p>
 
-- 🌱 I’m currently learning **Java and Angular!**
+- 🌱 I’m currently working on my next project with **Java and Angular!**
 
 - 👨‍💻 All of my projects are available at [my repositories!](https://github.com/tangkinleung?tab=repositories)
 
