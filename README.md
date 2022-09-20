@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tangkinleung?tab=repositories](https://github.com/tangkinleung?tab=repositories)
 
-- 📝 I regularly write articles on [frankietang.xyz](frankietang.xyz)
+- 📝 I regularly update my experiences and resume on [my portfolio site!](frankietang.xyz)
 
 - 💬 Ask me about **Next.js and Chakra!**
 
