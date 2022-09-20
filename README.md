@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Angular!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tangkinleung?tab=repositories](https://github.com/tangkinleung?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories!](https://github.com/tangkinleung?tab=repositories)
 
 - 📝 I regularly update my experiences and resume on [my portfolio site!](frankietang.xyz)
 
