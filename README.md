@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Next.js and Chakra!**
 
-- 📫 How to reach me **frankie@frankietang.xyz**
+- 📫 For work opportunities, drop me an email @ **frankie@frankietang.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
