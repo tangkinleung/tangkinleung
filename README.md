@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kin Leung!</h1>
-<h3 align="center">Aspiring Full-Stack Developer in Singapore Institute of Technology🚀</h3>
+<div align="center">
+	<img src="https://github.com/tangkinleung/tangkinleung/raw/main/ms-story.jpg" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+</div>
+<h3 align="center">I'm a Full-Stack Developer from Singapore Institute of Technology🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tangkinleung&label=Profile%20views&color=blueviolet&style=flat" alt="tangkinleung" /> </p>
 
