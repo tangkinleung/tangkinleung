@@ -11,8 +11,6 @@
 
 - 📝 I regularly update my experiences and resume on [my portfolio site!](frankietang.xyz)
 
-- 💬 Ask me about **Next.js and Chakra!**
-
 - 📫 For work opportunities, drop me an email @ **frankie@frankietang.xyz**
 
 <h3 align="left">Connect with me:</h3>
