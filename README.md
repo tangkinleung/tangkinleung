@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tang-kinleung" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"alt="tang-kinleung" height="30" width="40" /></a>
-<a href="https://instagram.com/fralalaland" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="fralalaland" height="30" width="40" /></a>
-<a href="https://t.me/frankiehyung" target="blank"><img align="center" 
+<a href="https://linkedin.com/in/tang-kinleung" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"alt="tang-kinleung" height="30" width="40" /></a>
+<a href="https://instagram.com/fralalaland" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="fralalaland" height="30" width="40" /></a>
+<a href="https://t.me/frankiehyung" target="_blank"><img align="center" 
 src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="frankiehyung" height="30" width="40" /></a>
 </p>
 
