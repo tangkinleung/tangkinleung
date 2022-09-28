@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/tangkinleung/tangkinleung/raw/main/ms-webp.webp" alt="Welcome to my Repo.">
+	<img src="https://github.com/tangkinleung/tangkinleung/raw/main/landing-page.webp" alt="Welcome to my Repo.">
 </div>
 <h3 align="center">I'm a Full-Stack Developer from Singapore Institute of Technology🚀</h3>
 
@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/tang-kinleung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tang-kinleung" height="30" width="40" /></a>
 <a href="https://instagram.com/fralalaland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fralalaland" height="30" width="40" /></a>
+<a href="https://t.me/frankiehyung" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="frankiehyung" height="30" width=""40 /></a>
 </p>
 
 <h3 align="left">Here are the Languages and Tools I have experiences with:</h3>
