@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Col
 </p>
 
 <h3 align="left">My Tech Stack</h3>
-<img src="https://skillicons.dev/icons?i=java,angular,python,kotlin,arduino,docker,nodejs,nextjs,mysql,mongodb,firebase,vercel,androidstudio,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,python,kotlin,java,angular,html,arduino,docker,nodejs,nextjs,mysql,mongodb,postgres,firebase,vercel,vscode,eclipse, idea,androidstudio,pytorch&perline=10" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tangkinleung&show_icons=true&locale=en&layout=compact" alt="tangkinleung" /></p>
 
