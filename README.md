@@ -20,7 +20,7 @@
 <a href="https://instagram.com/fralalaland" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="fralalaland" height="30" width="40" /></a>
 
 <a href="https://t.me/frankiehyung" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="frankiehyung" height="30" width=""40 /></a>
+src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="frankiehyung" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Here are the Languages and Tools I have experiences with:</h3>
