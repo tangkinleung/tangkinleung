@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on my next project with **Java and Angular**
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/tangkinleung?tab=repositories)
+- 👨‍💻 Most of my projects are available at [my repositories](https://github.com/tangkinleung?tab=repositories)
 
 - 📝 I regularly update my experiences and resume on [my portfolio site](https://frankietang.xyz)
 
