@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/tangkinleung?tab=repositories)
 
-- 📝 I regularly update my experiences and resume on [my portfolio site](frankietang.xyz)
+- 📝 I regularly update my experiences and resume on [my portfolio site](https://frankietang.xyz)
 
 - 📫 For work opportunities, drop me an email @ **hi@frankietang.xyz**
 
