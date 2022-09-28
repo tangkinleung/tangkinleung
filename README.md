@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/tangkinleung/tangkinleung/raw/main/ms-story.jpg" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+	<img src="https://github.com/tangkinleung/tangkinleung/raw/main/ms-webp.webp" alt="Welcome to my Repo.">
 </div>
 <h3 align="center">I'm a Full-Stack Developer from Singapore Institute of Technology🚀</h3>
 
